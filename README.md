@@ -1,6 +1,10 @@
 # PointPillars_tensorRT_Cplusplus
 PointPillars 部署tensorrt
 
+本示例中对 pillar 的计算流程用numpy进行了重新，对后处理的3D_mns用一个近似代替（只为验证模型结果是对的，没有大量测试实际使用可能会有问题）。
+
+运行onnx 测试效果依赖环境：numpy、open3d、onnxruntime
+
 
 # 导出onnx 
 
