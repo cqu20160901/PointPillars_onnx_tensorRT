@@ -12,4 +12,10 @@ PointPillars 部署tensorrt
 
 # onnx 效果
 
-![企业微信截图_17304536011393](https://github.com/user-attachments/assets/cf5baee9-04cd-4b53-8805-1dcf5b0849e1)
+pytorch 效果
+
+![image](https://github.com/user-attachments/assets/f177a1bd-7862-43a7-bb6a-593975fe7b88)
+
+onnx 效果
+
+![image](https://github.com/user-attachments/assets/cf5baee9-04cd-4b53-8805-1dcf5b0849e1)
