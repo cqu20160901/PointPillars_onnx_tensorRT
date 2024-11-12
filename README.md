@@ -4,6 +4,10 @@
 
 运行onnx 测试效果依赖环境：numpy、open3d、onnxruntime
 
+TensorRT版本：TensorRT-8.6.1.6
+
+***特别说明：本示例中没有使用 3d_mns, 只用 2D 的 mns 进行了简单处理。***
+
 
 # 导出onnx 
 
