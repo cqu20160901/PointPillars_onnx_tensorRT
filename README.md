@@ -2,7 +2,7 @@
 
 本示例中对 pillar 的计算流程用numpy进行了重新，对后处理的mns用一个2D的nms近似代替（只为验证模型结果是对的，不可实际使用）。
 
-运行onnx 测试效果依赖环境：numpy、open3d、onnxruntime
+运行onnx 测试依赖环境：numpy、open3d、onnxruntime
 
 TensorRT版本：TensorRT-8.6.1.6
 
