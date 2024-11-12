@@ -1,6 +1,6 @@
 # PointPillars_onnx_tensorRT_Cplusplus
 
-本示例中对 pillar 的计算流程用numpy进行了重新，对后处理的mns用一个2D的nms近似代替（只为验证模型结果是对的，不可实际使用）。
+本示例中对 pillar 的计算流程用numpy进行了重实现，对后处理的mns用一个2D的nms近似代替（只为验证模型结果是对的，不可实际使用）。
 
 本示例中，包含完整的：测试脚本代码、模型、测试数据、测试结果。
 
