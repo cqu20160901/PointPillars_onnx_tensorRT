@@ -13,6 +13,12 @@ TensorRT版本：TensorRT-8.6.1.6
 
 [【参考链接】](https://github.com/zhulf0804/PointPillars/tree/feature/deployment)
 
+模型输入输出维度：
+
+![image](https://github.com/user-attachments/assets/ab78addf-38de-4c16-8f5c-a9378b1fd06d)
+
+
+
 # onnx 效果
 
 ## pytorch 效果
