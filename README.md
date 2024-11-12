@@ -20,13 +20,14 @@ TensorRT版本：TensorRT-8.6.1.6
 ![image](https://github.com/user-attachments/assets/ab78addf-38de-4c16-8f5c-a9378b1fd06d)
 
 
-
-# onnx 效果
-
 ## pytorch 效果
 
 ![image](https://github.com/user-attachments/assets/1e4887d6-c7da-421a-81ea-70c8403401cf)
 
+
+对应图像
+
+![image](https://github.com/cqu20160901/PointPillars_onnx_tensorRT/blob/main/onnx_demo/test.png)
 
 ## onnx 效果
 
