@@ -25,7 +25,7 @@ TensorRT版本：TensorRT-8.6.1.6
 ![image](https://github.com/user-attachments/assets/0213f7f8-8459-4eed-a737-bb6c995058f6)
 
 
-## tensorrt 效果
+## tensorrt 效果(由于tensorrt在服务器上运行的，不能可视化，结果写入txt再拉下进行可视化，可是 ![【脚本参考】](https://github.com/zhulf0804/PointPillars/blob/feature/deployment/deployment/vis_infer_result.py))
 
 ![image](https://github.com/user-attachments/assets/f2932675-a0a1-4d5c-82c0-68cfd1f207ce)
 
