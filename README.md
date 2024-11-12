@@ -11,11 +11,30 @@
 
 # onnx 效果
 
-pytorch 效果
+## pytorch 效果
 
 ![image](https://github.com/user-attachments/assets/1e4887d6-c7da-421a-81ea-70c8403401cf)
 
 
-onnx 效果
+## onnx 效果
 
 ![image](https://github.com/user-attachments/assets/0213f7f8-8459-4eed-a737-bb6c995058f6)
+
+
+## tensorrt 效果
+
+![image](https://github.com/user-attachments/assets/f2932675-a0a1-4d5c-82c0-68cfd1f207ce)
+
+
+## onnx 和 tensorrt 输出结果
+
+### onnx 推理输出
+
+![image](https://github.com/user-attachments/assets/c41c1441-121c-4582-993f-96f9501c22f6)
+
+### tensorrt 推理输出
+
+![image](https://github.com/user-attachments/assets/548597a3-19a3-416d-86c2-0cf3ab97debb)
+
+
+
